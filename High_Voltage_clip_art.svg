@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) --><svg height="297mm" id="svg2" inkscape:version="0.44" sodipodi:docbase="C:\Documents and Settings\robert" sodipodi:docname="high_voltage.svg" sodipodi:version="0.32" width="210mm" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title>High Voltage</dc:title>
+        <dc:description>European high voltage sign</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>high voltage sign</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Robert Mazur</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Robert Mazur</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>25-03-2006</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs4"/>
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="161.30295" inkscape:cy="557.47963" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="713" inkscape:window-width="1016" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="2.5744934" pagecolor="#ffffff" showgrid="true"/>
+  <g id="layer1" inkscape:groupmode="layer" inkscape:label="Warstwa 1">
+    <g id="g8275">
+      <path d="M 49.953581,594.71101 C 86.95145,529.01609 125.37232,460.47517 162.3702,394.78024 C 199.1309,461.42384 235.89161,528.06744 272.65232,594.71103 C 198.89374,593.76236 123.71216,595.65968 49.953581,594.71101 z " id="path1997" sodipodi:nodetypes="cccc" style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+      <path d="M 162.37019,418.97114 L 70.587007,581.90409 L 254.15339,582.61559 L 162.37019,418.97114 z " id="path1999" sodipodi:nodetypes="cccc" style="fill:yellow;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+      <path d="M 152.40923,459.5265 L 170.90817,462.37249 L 148.85174,514.31182 L 176.60015,498.65887 L 163.0817,559.84766 L 168.77368,559.84766 L 157.38971,579.7696 L 153.12073,557.00167 L 159.52421,558.42467 L 163.0817,515.02331 L 134.62179,527.11877 L 152.40923,459.5265 z " id="path2001" sodipodi:nodetypes="cccccccccccc" style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    </g>
+  </g>
+</svg>

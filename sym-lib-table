@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SmokESP8266-rescue)(type Legacy)(uri ${KIPRJMOD}/SmokESP8266-rescue.lib)(options "")(descr ""))
+  (lib (name WroomMINI2-rescue)(type Legacy)(uri C:/Users/ccadic/CloudStation/SmokEsp8266/SmokESP8266/WroomMINI2-rescue.lib)(options "")(descr ""))
+)
