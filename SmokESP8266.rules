@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 225)
+    (start_pass_no 3500)
     (layer_rule F.Cu
       (active on)
       (preferred_direction vertical)
@@ -40,6 +40,15 @@
     )
     (attach off)
   )
+  (padstack "Via[0-1]_2800:1800_um"
+    (shape
+      (circle F.Cu 2800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 2800.0 0.0 0.0)
+    )
+    (attach off)
+  )
   (padstack "Via[0-1]_2400:1200_um"
     (shape
       (circle F.Cu 2400.0 0.0 0.0)
@@ -48,6 +57,15 @@
       (circle B.Cu 2400.0 0.0 0.0)
     )
     (attach off)
+  )
+  (via 
+    "Via[0-1]_2800:1800_um" "Via[0-1]_2800:1800_um" default
+  )
+  (via 
+    "Via[0-1]_2800:1800_um-kicad_default" "Via[0-1]_2800:1800_um" "kicad_default"
+  )
+  (via 
+    "Via[0-1]_2800:1800_um-220v" "Via[0-1]_2800:1800_um" 220v
   )
   (via 
     "Via[0-1]_2400:1200_um" "Via[0-1]_2400:1200_um" default
@@ -87,12 +105,11 @@
     )
   )
   (class "kicad_default"
-    GND +3V3 "Net-(D1-Pad2)" "Net-(Q1-Pad2)" "Net-(C3-Pad1)" "Net-(C4-Pad1)" +5V "Net-(D2-Pad2)"
-    "Net-(J2-Pad3)" "Net-(J2-Pad2)" "Net-(J2-Pad1)" /RX /TX /MOSI /CLK "/SPI_SS"
-    /IO16 /RESETDISP /LEDA /DCDISP /GPIO15 /IO21 "Net-(J1-Pad3)" "Net-(J1-Pad4)"
-    "Net-(J1-Pad2)" /GPIO4 /IO17 /IO22 "Net-(U1-Pad32)" /MISO /Touch3 "Net-(U1-Pad22)"
-    "Net-(U1-Pad21)" "Net-(U1-Pad20)" "Net-(U1-Pad19)" "Net-(U1-Pad18)" "Net-(U1-Pad17)" /Touch4 /Touch5 /IO27
-    /IO25 /IO33 /IO35 /IO34 /SVN /SVP
+    GND +3V3 "Net-(D1-Pad2)" "Net-(Q1-Pad2)" +5V "Net-(D2-Pad2)" "Net-(J2-Pad3)" "Net-(J2-Pad2)"
+    "Net-(J2-Pad1)" /MOSI /CLK "/SPI_SS" /IO16 /RESETDISP /LEDA /DCDISP
+    /GPIO4 /IO17 /IO22 /RESETB /Bootb /D+ "/D-" /DTR
+    "Net-(Q2-Pad2)" "Net-(Q3-Pad2)" /RTS /TXD0 /RXD0 /5vPM25 /5vPM1 /3vPM25
+    /3vPM1
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule
